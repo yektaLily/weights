@@ -1,0 +1,404 @@
+province
+---------------*****-----------------
+Actual Values Frequency Sum:  3719
+My calculated Values Frq Sum:  3719
+==============================================================
+Actual weighted frequency sum:  12388500
+My calculated weighted frequency sum: 12388280.025153004
+The actual values frequency count matches.
+The actual weighted frequency count matches.
+==============================================================
+==============================================================
+pop_cent
+---------------*****-----------------
+Actual Values Frequency Sum:  11550
+My calculated Values Frq Sum:  11550
+==============================================================
+Actual weighted frequency sum:  26618418
+My calculated weighted frequency sum: 26634371.33915162
+The actual values frequency count matches.
+*******WARNING*********
+The actual weighted frequency count don't match.
+==============================================================
+==============================================================
+age_grp
+---------------*****-----------------
+Actual Values Frequency Sum:  100
+My calculated Values Frq Sum:  828
+==============================================================
+Actual weighted frequency sum:  150
+My calculated weighted frequency sum: 4548326.412444
+The actual values frequency count matches.
+*******WARNING*********
+The actual weighted frequency count don't match.
+==============================================================
+==============================================================
+gender
+---------------*****-----------------
+Actual Values Frequency Sum:  828
+My calculated Values Frq Sum:  8126
+==============================================================
+Actual weighted frequency sum:  4547807
+My calculated weighted frequency sum: 15663360.54804152
+The actual values frequency count matches.
+*******WARNING*********
+The actual weighted frequency count don't match.
+==============================================================
+==============================================================
+indigen
+---------------*****-----------------
+Actual Values Frequency Sum:  516
+My calculated Values Frq Sum:  516
+==============================================================
+Actual weighted frequency sum:  762686
+My calculated weighted frequency sum: 771766.6532210998
+The actual values frequency count matches.
+The actual weighted frequency count matches.
+==============================================================
+==============================================================
+lang
+---------------*****-----------------
+Actual Values Frequency Sum:  11080
+My calculated Values Frq Sum:  11080
+==============================================================
+Actual weighted frequency sum:  20034107
+My calculated weighted frequency sum: 19963706.729363058
+The actual values frequency count matches.
+*******WARNING*********
+The actual weighted frequency count don't match.
+==============================================================
+==============================================================
+emp
+---------------*****-----------------
+Actual Values Frequency Sum:  8451
+My calculated Values Frq Sum:  8451
+==============================================================
+Actual weighted frequency sum:  17311613
+My calculated weighted frequency sum: 17289928.69231857
+The actual values frequency count matches.
+*******WARNING*********
+The actual weighted frequency count don't match.
+==============================================================
+==============================================================
+edu
+---------------*****-----------------
+Actual Values Frequency Sum:  1004
+My calculated Values Frq Sum:  1004
+==============================================================
+Actual weighted frequency sum:  4151420
+My calculated weighted frequency sum: 4070253.1629397003
+The actual values frequency count matches.
+*******WARNING*********
+The actual weighted frequency count don't match.
+==============================================================
+==============================================================
+highestedu
+---------------*****-----------------
+Actual Values Frequency Sum:  5746
+My calculated Values Frq Sum:  5746
+==============================================================
+Actual weighted frequency sum:  10383246
+My calculated weighted frequency sum: 10358821.970499009
+The actual values frequency count matches.
+*******WARNING*********
+The actual weighted frequency count don't match.
+==============================================================
+==============================================================
+home_use
+---------------*****-----------------
+Actual Values Frequency Sum:  15673
+My calculated Values Frq Sum:  15673
+==============================================================
+Actual weighted frequency sum:  29784980
+My calculated weighted frequency sum: 29827748.154992774
+The actual values frequency count matches.
+*******WARNING*********
+The actual weighted frequency count don't match.
+==============================================================
+==============================================================
+access_dataplan
+---------------*****-----------------
+Actual Values Frequency Sum:  12231
+My calculated Values Frq Sum:  12231
+==============================================================
+Actual weighted frequency sum:  25069005
+My calculated weighted frequency sum: 25077007.63037147
+The actual values frequency count matches.
+The actual weighted frequency count matches.
+==============================================================
+==============================================================
+access_dataplanSize
+---------------*****-----------------
+Actual Values Frequency Sum:  717
+My calculated Values Frq Sum:  717
+==============================================================
+Actual weighted frequency sum:  1320428
+My calculated weighted frequency sum: 1344409.678540001
+The actual values frequency count matches.
+*******WARNING*********
+The actual weighted frequency count don't match.
+==============================================================
+==============================================================
+lastThreemonthsUsage
+---------------*****-----------------
+Actual Values Frequency Sum:  15294
+My calculated Values Frq Sum:  15294
+==============================================================
+Actual weighted frequency sum:  29182133
+My calculated weighted frequency sum: 29150920.297290992
+The actual values frequency count matches.
+*******WARNING*********
+The actual weighted frequency count don't match.
+==============================================================
+==============================================================
+int_use
+---------------*****-----------------
+Actual Values Frequency Sum:  15294
+My calculated Values Frq Sum:  15294
+==============================================================
+Actual weighted frequency sum:  29182133
+My calculated weighted frequency sum: 29266407.693420745
+The actual values frequency count matches.
+*******WARNING*********
+The actual weighted frequency count don't match.
+==============================================================
+==============================================================
+DVC_smartphone
+---------------*****-----------------
+Actual Values Frequency Sum:  12377
+My calculated Values Frq Sum:  12377
+==============================================================
+Actual weighted frequency sum:  25545194
+My calculated weighted frequency sum: 25523891.754793465
+The actual values frequency count matches.
+*******WARNING*********
+The actual weighted frequency count don't match.
+==============================================================
+==============================================================
+have_smartphone
+---------------*****-----------------
+Actual Values Frequency Sum:  13108
+My calculated Values Frq Sum:  13108
+==============================================================
+Actual weighted frequency sum:  26554185
+My calculated weighted frequency sum: 26592291.459832728
+The actual values frequency count matches.
+*******WARNING*********
+The actual weighted frequency count don't match.
+==============================================================
+==============================================================
+sm_use
+---------------*****-----------------
+Actual Values Frequency Sum:  13108
+My calculated Values Frq Sum:  13108
+==============================================================
+Actual weighted frequency sum:  26554185
+My calculated weighted frequency sum: 26723976.595357973
+The actual values frequency count matches.
+*******WARNING*********
+The actual weighted frequency count don't match.
+==============================================================
+==============================================================
+noUse_sm_difficult
+---------------*****-----------------
+Actual Values Frequency Sum:  239
+My calculated Values Frq Sum:  239
+==============================================================
+Actual weighted frequency sum:  292274
+My calculated weighted frequency sum: 266288.07594000007
+The actual values frequency count matches.
+*******WARNING*********
+The actual weighted frequency count don't match.
+==============================================================
+==============================================================
+sm_use_frqnc
+---------------*****-----------------
+Actual Values Frequency Sum:  673
+My calculated Values Frq Sum:  673
+==============================================================
+Actual weighted frequency sum:  2064135
+My calculated weighted frequency sum: 2104872.392391001
+The actual values frequency count matches.
+*******WARNING*********
+The actual weighted frequency count don't match.
+==============================================================
+==============================================================
+smUse_time_bed
+---------------*****-----------------
+Actual Values Frequency Sum:  6892
+My calculated Values Frq Sum:  6892
+==============================================================
+Actual weighted frequency sum:  16141759
+My calculated weighted frequency sum: 15853150.734718118
+The actual values frequency count matches.
+*******WARNING*********
+The actual weighted frequency count don't match.
+==============================================================
+==============================================================
+rel_friends
+---------------*****-----------------
+Actual Values Frequency Sum:  236
+My calculated Values Frq Sum:  236
+==============================================================
+Actual weighted frequency sum:  419797
+My calculated weighted frequency sum: 376074.25381699996
+The actual values frequency count matches.
+*******WARNING*********
+The actual weighted frequency count don't match.
+==============================================================
+==============================================================
+socLife_hangOutwFam
+---------------*****-----------------
+Actual Values Frequency Sum:  4102
+My calculated Values Frq Sum:  541
+==============================================================
+Actual weighted frequency sum:  7783345
+My calculated weighted frequency sum: 1033890.5425699992
+The actual values frequency count matches.
+*******WARNING*********
+The actual weighted frequency count don't match.
+==============================================================
+==============================================================
+payMethod_credit
+---------------*****-----------------
+Actual Values Frequency Sum:  2480
+My calculated Values Frq Sum:  9693
+==============================================================
+Actual weighted frequency sum:  5958245
+My calculated weighted frequency sum: 19489763.10429326
+The actual values frequency count matches.
+*******WARNING*********
+The actual weighted frequency count don't match.
+==============================================================
+==============================================================
+Use_2FA
+---------------*****-----------------
+Actual Values Frequency Sum:  7791
+My calculated Values Frq Sum:  7791
+==============================================================
+Actual weighted frequency sum:  16932123
+My calculated weighted frequency sum: 17204333.442532457
+The actual values frequency count matches.
+*******WARNING*********
+The actual weighted frequency count don't match.
+==============================================================
+==============================================================
+cyber_incident_payment
+---------------*****-----------------
+Actual Values Frequency Sum:  1053
+My calculated Values Frq Sum:  1053
+==============================================================
+Actual weighted frequency sum:  2229516
+My calculated weighted frequency sum: 2220864.4865100007
+The actual values frequency count matches.
+The actual weighted frequency count matches.
+==============================================================
+==============================================================
+WFH_hours
+---------------*****-----------------
+Actual Values Frequency Sum:  1480
+My calculated Values Frq Sum:  1480
+==============================================================
+Actual weighted frequency sum:  3076568
+My calculated weighted frequency sum: 3156064.940854699
+The actual values frequency count matches.
+*******WARNING*********
+The actual weighted frequency count don't match.
+==============================================================
+==============================================================
+mentalhealth
+---------------*****-----------------
+Actual Values Frequency Sum:  3659
+My calculated Values Frq Sum:  3659
+==============================================================
+Actual weighted frequency sum:  6196066
+My calculated weighted frequency sum: 6047822.233279997
+The actual values frequency count matches.
+*******WARNING*********
+The actual weighted frequency count don't match.
+==============================================================
+==============================================================
+spend_online_dig_music
+---------------*****-----------------
+Actual Values Frequency Sum:  14579
+My calculated Values Frq Sum:  14579
+==============================================================
+Actual weighted frequency sum:  27843326
+My calculated weighted frequency sum: 27806079.632108055
+The actual values frequency count matches.
+*******WARNING*********
+The actual weighted frequency count don't match.
+==============================================================
+==============================================================
+spend_online_dig_video
+---------------*****-----------------
+Actual Values Frequency Sum:  14579
+My calculated Values Frq Sum:  14579
+==============================================================
+Actual weighted frequency sum:  27843326
+My calculated weighted frequency sum: 27912757.474890128
+The actual values frequency count matches.
+*******WARNING*********
+The actual weighted frequency count don't match.
+==============================================================
+==============================================================
+spend_online_dig_books
+---------------*****-----------------
+Actual Values Frequency Sum:  14579
+My calculated Values Frq Sum:  14579
+==============================================================
+Actual weighted frequency sum:  27843326
+My calculated weighted frequency sum: 27931353.569297805
+The actual values frequency count matches.
+*******WARNING*********
+The actual weighted frequency count don't match.
+==============================================================
+==============================================================
+spend_online_phy_total
+---------------*****-----------------
+Actual Values Frequency Sum:  11908
+My calculated Values Frq Sum:  11908
+==============================================================
+Actual weighted frequency sum:  24003578
+My calculated weighted frequency sum: 24085980.627897985
+The actual values frequency count matches.
+*******WARNING*********
+The actual weighted frequency count don't match.
+==============================================================
+==============================================================
+spend_p2p_acc
+---------------*****-----------------
+Actual Values Frequency Sum:  1310
+My calculated Values Frq Sum:  1310
+==============================================================
+Actual weighted frequency sum:  2974719
+My calculated weighted frequency sum: 2985634.707962303
+The actual values frequency count matches.
+*******WARNING*********
+The actual weighted frequency count don't match.
+==============================================================
+==============================================================
+spend_online_services
+---------------*****-----------------
+Actual Values Frequency Sum:  7852
+My calculated Values Frq Sum:  7852
+==============================================================
+Actual weighted frequency sum:  17250184
+My calculated weighted frequency sum: 17355292.651423097
+The actual values frequency count matches.
+*******WARNING*********
+The actual weighted frequency count don't match.
+==============================================================
+==============================================================
+total_internet_spending
+---------------*****-----------------
+Actual Values Frequency Sum:  14718
+My calculated Values Frq Sum:  14718
+==============================================================
+Actual weighted frequency sum:  28042611
+My calculated weighted frequency sum: 28114838.958881896
+The actual values frequency count matches.
+*******WARNING*********
+The actual weighted frequency count don't match.
+==============================================================
+==============================================================
